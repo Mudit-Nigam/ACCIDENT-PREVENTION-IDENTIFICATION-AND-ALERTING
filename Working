@@ -1,0 +1,5 @@
+Accelerometer detects the sudden change in
+the axes of vehicle and GSM module sends the alert message on your
+Mobile Phone with the location of the accident. Location of accident is
+sent in the form of Google Map link, derived from the latitude and
+longitude from GPS module.
